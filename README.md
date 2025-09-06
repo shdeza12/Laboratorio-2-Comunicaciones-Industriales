@@ -22,7 +22,7 @@ El trabajo se centró en la implementación de técnicas básicas de **detecció
 
 ## Autores
 - Santiago Hernández Ávila  
-- Diego Alejandro Rodríguez Gámez  
+- Diego Alejandro Rodríguez Guzmán  
 - Camila Pérez Mercado  
 
 Facultad de Ingeniería Electrónica – Universidad Santo Tomás
